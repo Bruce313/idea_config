@@ -35,8 +35,10 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1479103649115">
+      <file name="/dummy.sql" timestamp="1479107809961">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -45,7 +47,7 @@
         <text encoding="base64">Y2wK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sn</text>
+        <text>g_id = 7221</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CmNsYXNzIGFiIHsKICAgIHB1YmxpYyBhYigpIHsKICAgICAgICBpbnQgYSA9IDA7CiAgICB9Cn0K</text>
@@ -63,7 +65,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>sn</text>
+        <text>g_id = 7221</text>
       </register>
     </registers>
     <search>
